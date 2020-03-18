@@ -4,7 +4,7 @@ Did you know, 240 is the common voltage in England and Australia before conversi
 
 Did you know that 114 is the number of chapters in the Quran, the holy book of Islam?
 
-Want to know more such trivia? This app will enrich your trivia knowledge of numbers
+Want to know more such trivia? This app will enrich your trivia knowledge of numbers.
 
 <table>
   <tr>
